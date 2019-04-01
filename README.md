@@ -12,6 +12,3 @@ $ git clone https://github.com/HeXsploitTeam/Multi-Finder
 $ cd Multi-Finder
 $ php MF.php
 ```
-
-# [ Screenshot ]
-<img src="result/MF.png "/>
