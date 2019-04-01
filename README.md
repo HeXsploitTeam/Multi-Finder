@@ -1,7 +1,7 @@
 # Multi-Finder
 Multi Finder Website => 
-* Found Admin Login Website
-* Found Shell Backdoor
+* Found Admin Finder
+* Found Shell Backdoor Finder
 * Found PHPMyAdmin Finder
 
 # [ Installation ]
@@ -12,3 +12,6 @@ $ git clone https://github.com/HeXsploitTeam/Multi-Finder
 $ cd Multi-Finder
 $ php MF.php
 ```
+
+# [ Screenshot ]
+<img src="result/MF.png "/>
