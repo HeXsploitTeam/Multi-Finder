@@ -7,8 +7,7 @@ Multi Finder Website =>
 # [ Installation ]
 ```
 $ pkg update upgrade
-$ pkg install php
-
+$ pkg install php && pkg install curl
 $ git clone https://github.com/HeXsploitTeam/Multi-Finder
 $ cd Multi-Finder
 $ php MF.php
