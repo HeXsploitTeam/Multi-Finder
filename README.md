@@ -1,8 +1,8 @@
 # Multi-Finder
 Multi Finder Website => 
-* Found Admin Finder
-* Found Shell Backdoor Finder
-* Found PHPMyAdmin Finder
+* Admin Finder
+* Shell Backdoor Finder
+* PHPMyAdmin Finder
 
 # [ Installation ]
 ```
